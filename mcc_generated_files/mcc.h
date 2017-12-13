@@ -52,6 +52,7 @@
 #include "interrupt_manager.h"
 #include "eusart.h"
 #include "tmr0.h"
+#include "i2c1.h"
 
 #define _XTAL_FREQ  64000000
 

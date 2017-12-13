@@ -1,6 +1,11 @@
 # tutorial_1
 
-Project folder of the first step by step tutorial "From microcontroller to IOT device" publiced on www.my-ia.it 
+Project folder of the tutorial "From microcontroller to IOT device" publiced on [my-ia.it](http://www.paolocarlobernardi.it/index.php/en/embedded-en)
+The project covers the following chapters:
+* PIC microcontroller from scratch
+* LED blinking
+* A couple of words via RS232
+* I2C detect
 
 ### Prerequisites
 
